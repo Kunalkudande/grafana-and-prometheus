@@ -38,3 +38,8 @@ Check live preview here [https://todo-app-b96a5.web.app/](https://todo-app-b96a5
 
 Pull the images from docker hub using : docker pull kunalk09/full_stack_todo_app:v1.0
 
+Run on port No: 
+React = http://localhost:3000/,
+Prometheus = http://localhost:9090/,
+Grafana = http://localhost:3001/.
+
