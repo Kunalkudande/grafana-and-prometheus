@@ -1,7 +1,7 @@
 # Installation
 Run the following command to clone the repository
 ```
-git clone 
+git clone https://github.com/Kunalkudande/grafana-and-prometheus.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
