@@ -36,5 +36,5 @@ npm start
 Check live preview here [https://todo-app-b96a5.web.app/](https://todo-app-b96a5.web.app/)
 
 
-# Pull the images from docker hub using : docker pull kunalk09/full_stack_todo_app:v1.0
+Pull the images from docker hub using : docker pull kunalk09/full_stack_todo_app:v1.0
 
